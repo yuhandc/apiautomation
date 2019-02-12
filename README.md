@@ -37,7 +37,7 @@ This is covered in the sample test case written in SampleTest class.
 3.) Run tests through command line using command mvn clean install -Pacceptance -DskipTests=false
   
 
-##How to right new test case
+## How to right new test case
 
 New test cases can be written in the tests package. Test class should be extended with the SetupRest class which includes the basic test setups needed. Users can use the ManipulateResponse class to come up with utility methods to support test writing.
 
