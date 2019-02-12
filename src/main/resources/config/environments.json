@@ -1,0 +1,19 @@
+{
+  "executionEnv":"dev",
+  "environmentList":[
+    {
+      "environment":"dev",
+      "apiVersion":"v1",
+      "protocol":"https",
+      "host":"api.tmsandbox.co.nz",
+      "port":"443"
+    },
+    {
+      "environment":"test",
+      "apiVersion":"v1",
+      "protocol":"https",
+      "host":"api.tmsandbox.co.nz",
+      "port":"443"
+    }
+  ]
+}
