@@ -30,7 +30,7 @@ This is covered in the sample test case written in SampleTest class.
  
 ## How to Run
 
-1.) Clone the required branch from the repository at 
+1.) Clone the required branch from the repository at https://github.com/yuhandc/apiautomation
 
 2.) Build the project using command mvn clean install
 
